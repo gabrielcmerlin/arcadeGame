@@ -1,6 +1,6 @@
 # Ajude o Floquinho!
 
-O grupo formado por Bruna Pereira Serrano da Mata [13733579], Gabriel da Costa Merlin [12544420] e Pedro
-Augusto Monteiro Delgado [13672766] criou um jogo utilizando threads e semáforos inspirado na Campanha
-USP do Agasalho. O jogo foi feito para o trabalho final da disciplina de Sistemas Operacionais
-ministrada no 2º semestre de 2023 pela docente Kalinka Regina Lucas Jaquie Castelo Branco.
+The group formed by Bruna Pereira Serrano da Mata [13733579], Gabriel da Costa Merlin [12544420] and Pedro
+Augusto Monteiro Delgado [13672766] created a game using threads and semaphores inspired by USP Campanha do Agasalho.
+The game was made for the final work of the Operating Systems discipline taught in the 2nd semester of 2023 by professor 
+Kalinka Regina Lucas Jaquie Castelo Branco.
